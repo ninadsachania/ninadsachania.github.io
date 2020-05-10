@@ -1,0 +1,8 @@
+# Writing
+
++	_The Elements of Style_ by Strunk & White
++	_Butterick's Practical Typography_ by Matthew Butterick
+
+# Email Writing Tips
+
++	![Tom Forde's Email Etiquette](https://www.math.uh.edu/~tomforde/Email-Etiquette.html)
