@@ -15,7 +15,7 @@ Movies:
 
 [Action]
 - No Country For Old Men *
-- There Will Be Blood * 
+- There Will Be Blood *
 - Pulp Fiction *
 - Inglourious Basterds *
 - Indiana Jones Series (Skip the fourth One)
@@ -24,12 +24,13 @@ Movies:
 - The Prestige *
 - Drive (2011)
 - Heat (1995) *
-- Goodfellas * 
-- The Departed 
+- Goodfellas *
+- The Departed
 - Taxi Driver *
+- 1917 *
 
 [Comedy]
-- Groundhog Day * 
+- Groundhog Day *
 - Annie Hall *
 - Vicky Cristina Barcelona *
 - Midnight In Paris *
@@ -37,17 +38,18 @@ Movies:
 [Romcoms]
 - 10 Things I Hate About You (soooo good)
 - La La Land
-- Juno 
+- Juno
 
 [Drama]
 - The Shape of Water * (2017 Oscar Winner)
-- Pan's Labyrinth 
-- Se7en 
+- Pan's Labyrinth
+- Se7en
 - The Wolf Of Wallstreet
 - The Darjeeling Limited (Shot in India)
+- Uncut Gems
 
 [Crime]
-- The Godfather 1, 2 
+- The Godfather 1, 2
 
 
 [Mind Fuck]
@@ -55,7 +57,7 @@ Movies:
 - Inception
 
 [Genius]
-- Good Will Hunting * 
+- Good Will Hunting *
 - A Beautiful Mind (John Nash)
 - The Imitation Game (Very important to CS)
 - Theory Of Everything (Stephen Hawking)
