@@ -6,3 +6,6 @@
 # Email Writing Tips
 
 +	![Tom Forde's Email Etiquette](https://www.math.uh.edu/~tomforde/Email-Etiquette.html)
++	![Email Writing Tips from Philip Guo](http://www.pgbovine.net/email-tips.htm)
++	![Matt Might's email tips](http://matt.might.net/articles/how-to-email/)
++	![Article by Molly Worthen](https://www.nytimes.com/2017/05/13/opinion/sunday/u-cant-talk-to-ur-professor-like-this.html)
