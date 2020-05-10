@@ -11,6 +11,7 @@ TV Shows:
 + Sherlock *
 + Silicon Valley *
 + Mr. Robot
++ Brooklyn Nine-Nine
 
 
 Movies:
@@ -30,17 +31,24 @@ Movies:
 + The Departed
 + Taxi Driver *
 + 1917 *
++ The Dark Knight
++ Mission: Impossible - Ghost Protocol
 
 [Comedy]
 + Groundhog Day *
 + Annie Hall *
 + Vicky Cristina Barcelona *
 + Midnight In Paris *
++ Yes Man
++ Lady Bird
++ Dazed and Confused
++ The Dictator
 
 [Romcoms]
 + 10 Things I Hate About You (soooo good)
 + La La Land
 + Juno
++ As Good As It Gets
 
 [Drama]
 + The Shape of Water * (2017 Oscar Winner)
@@ -49,6 +57,11 @@ Movies:
 + The Wolf of Wallstreet
 + The Darjeeling Limited (Shot in India)
 + Uncut Gems
++ Forrest Gump
++ A Clockwork Orange
++ Django Unchained
++ Dallas Buyers Club
++ The Social Network (Story of Mark Zuckerberg; cofounder of Facebook)
 
 [Crime]
 + The Godfather 1, 2
