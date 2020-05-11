@@ -14,7 +14,7 @@
 # Speaking
 
 + 	_Even a Geek Can Speak_ by Joey Asher
-+	![How to Speak by Patrick Winston (MIT)](https://www.youtube.com/watch?v=Unzc731iCUY)
++	[How to Speak by Patrick Winston (MIT)](https://www.youtube.com/watch?v=Unzc731iCUY)
 
 # Email Writing Tips
 
