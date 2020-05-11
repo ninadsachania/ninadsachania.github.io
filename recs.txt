@@ -4,11 +4,11 @@
 +	_Butterick's Practical Typography_ by Matthew Butterick
 +	How to Edit Your Own Writing (in New York Times). It is also saved on webarchive.org.
 + 	On Writing Well by William Zinsser
-+ 	![_How to Write Usefully_ by Paul Graham](http://www.paulgraham.com/useful.html)
-+ 	![_Writing, Briefly_ by Paul Graham](http://www.paulgraham.com/writing44.html)
-+ 	![Writing and Speaking by Paul Graham](http://www.paulgraham.com/speak.html)
-+ 	![Don Knuth's Notes on Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
-+ 	![3 shell scripts to improve your writing by Matt Might](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
++ 	[_How to Write Usefully_ by Paul Graham](http://www.paulgraham.com/useful.html)
++ 	[_Writing, Briefly_ by Paul Graham](http://www.paulgraham.com/writing44.html)
++ 	[Writing and Speaking by Paul Graham](http://www.paulgraham.com/speak.html)
++ 	[Don Knuth's Notes on Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
++ 	[3 shell scripts to improve your writing by Matt Might](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
 +	`proselint` and `writegood`
 
 # Speaking
@@ -18,7 +18,7 @@
 
 # Email Writing Tips
 
-+	![Tom Forde's Email Etiquette](https://www.math.uh.edu/~tomforde/Email-Etiquette.html)
-+	![Email Writing Tips from Philip Guo](http://www.pgbovine.net/email-tips.htm)
-+	![Matt Might's email tips](http://matt.might.net/articles/how-to-email/)
-+	![Article by Molly Worthen](https://www.nytimes.com/2017/05/13/opinion/sunday/u-cant-talk-to-ur-professor-like-this.html)
++	[Tom Forde's Email Etiquette](https://www.math.uh.edu/~tomforde/Email-Etiquette.html)
++	[Email Writing Tips from Philip Guo](http://www.pgbovine.net/email-tips.htm)
++	[Matt Might's email tips](http://matt.might.net/articles/how-to-email/)
++	[Article by Molly Worthen](https://www.nytimes.com/2017/05/13/opinion/sunday/u-cant-talk-to-ur-professor-like-this.html)
