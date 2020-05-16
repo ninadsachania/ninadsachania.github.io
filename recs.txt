@@ -3,7 +3,7 @@
 
 > "Good English, well spoken and well written, will open more doors than a college degree.
 >  Bad English will slam doors you didn't even know existed."
->																	--- William Raspberry
+>  --- William Raspberry
 
 
 +	_The Elements of Style_ by Strunk & White
@@ -16,6 +16,7 @@
 + 	[Don Knuth's Notes on Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
 + 	[_3 shell scripts to improve your writing_ by Matt Might](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
 +	`proselint` and `writegood` linters
++	`aspell` utility on *nix systems.
 
 # Speaking
 
