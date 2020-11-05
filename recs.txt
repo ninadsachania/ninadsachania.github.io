@@ -7,21 +7,31 @@
 
 
 +	_The Elements of Style_ by Strunk & White
-+	_Butterick's Practical Typography_ by Matthew Butterick
-+	How to Edit Your Own Writing (in New York Times). It is also saved on webarchive.org.
++	How to Edit Your Own Writing (in New York Times). It's also saved on webarchive.org.
 + 	_On Writing Well_ by William Zinsser
 + 	[_How to Write Usefully_ by Paul Graham](http://www.paulgraham.com/useful.html)
 + 	[_Writing, Briefly_ by Paul Graham](http://www.paulgraham.com/writing44.html)
 + 	[_Writing and Speaking_ by Paul Graham](http://www.paulgraham.com/speak.html)
 + 	[Don Knuth's Notes on Mathematical Writing](http://jmlr.csail.mit.edu/reviewing-papers/knuth_mathematical_writing.pdf)
 + 	[_3 shell scripts to improve your writing_ by Matt Might](http://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
++	[_Writing English as a Second Language_](https://theamericanscholar.org/writing-english-as-a-second-language/) by William Zinsser
++	[_Software engineers should write_](http://www.shubhro.com/2014/12/27/software-engineers-should-write/) by Shubhro Saha
 +	`proselint` and `writegood` linters
 +	`aspell` utility on *nix systems.
++	[_How To Write Mathematics_](https://entropiesschool.sciencesconf.org/data/How_to_Write_Mathematics.pdf) by Paul Halmos
++	[_A Mathematician's Apology_](https://www.math.ualberta.ca/mss/misc/A%20Mathematician%27s%20Apology.pdf) by G. H. Hardy
++	[_You Might as Well be a Great Copy Editor_](https://blog.regehr.org/archives/1471) by John Regehr
++	[_Donald Knuth's Lectures on Mathematical Writing_](https://www.youtube.com/playlist?list=PLOdeqCXq1tXihn5KmyB2YTOqgxaUkcNYG)
 
 # Speaking
 
 + 	_Even a Geek Can Speak_ by Joey Asher
 +	[_How to Speak_ by Patrick Winston (MIT)](https://www.youtube.com/watch?v=Unzc731iCUY)
+
+# Typography
+
++	_Practical Typography_ by Matthew Butterick
++	[A Five-Minute Guide to Better Typography](https://www.pierrickcalvez.com/journal/a-five-minutes-guide-to-better-typography)
 
 # Email Writing Tips
 
@@ -30,3 +40,127 @@
 +	[Matt Might's email tips](http://matt.might.net/articles/how-to-email/)
 +	[Article by Molly Worthen](https://www.nytimes.com/2017/05/13/opinion/sunday/u-cant-talk-to-ur-professor-like-this.html)
 +	[Comic by The Oatmeal](https://theoatmeal.com/comics/email_address)
+
+# Comics
+
++	Locke and Key by Joe Hill
++	CRIMINAL by Ed Brubaker
++	Watchmen by Alan Moore
++	The Punisher by Garth Ennis
++	Punk Rock Jesus by Sean Murphy
++	Superman for All Seasons by Jeff Loeb
++	Blankets by Craig Thompson
++	The Killing Joke by Alan Moore
++	Preacher (I have only read the first book, but I loved it. I do plan on reading the rest.)
+
++	_Calvin and Hobbes_ by Bill Waterson
+
++	_Logicomix: An Epic Search for Truth_ by Christos Papadimitriou et al.
+
+## Webcomics
+
++	[xkcd](https://xkcd.com)
++	[The Oatmeal](https://theoatmeal.com)
++	[The Abstruse Goose](https://abstrusegoose.com)
++	[PhD Comics](https://phdcomics.com)
++	[I <3 Coffee.jp]()
++	[Girl Genius]
++	[Olgaf!]
++	[SMBC]
+
+# Inspirational
+
++	[_King's Day Speech_ by Guido van Rossum](https://neopythonic.blogspot.com/2016/04/kings-day-speech.html)
++	Some Thoughts on Teaching by Bret Victor
++	_Masters of Doom_ by Jared Kushner
++	_hackers: heroes of the computer revolution_ by Steven Levy
++	"RTM" chapter in Katie Hafner's Cyberpunks (RTM---now a professor at MIT---co-founded "Viaweb" with Paul Graham)
++	[_Fast_ by Patrick Collison](https://patrickcollison.com/fast)
++	[_You and Your Research_ by Richard Hamming](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf)
++	[Claude Shannon](https://medium.com/the-mission/10-000-hours-with-claude-shannon-12-lessons-on-life-and-learning-from-a-genius-e8b9297bee8f)
++	[_Creative Thinking_](https://medium.com/the-mission/a-genius-explains-how-to-be-creative-claude-shannons-long-lost-1952-speech-fbbcb2ebe07f) by Claude Shannon
++	[_Why Racket_](https://beautifulracket.com/appendix/why-racket-why-lisp.html) by Matthew Butterick
++	[Stories from the early Apple days by Andy Hertzfeld and co.](http://folklore.org)
++	[_Advice_](https://patrickcollison.com/advice) by Patrick Collison
++	[_Inside The Mind That Built Google Brain: On Life, Creativity, And Failure_ (Andrew Ng)](Inside The Mind That Built Google Brain: On Life, Creativity, And Failure)
++	[_The Friendship That Made Google Huge_](https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge)
+
+# Humor
+
++	[Unix -- The Hole Hawg by Neal Stephenson](http://www.team.net/mjb/hawg.html)
+
+# Photography
+
++	_Photography_ by Barbara London
++	_Learning to See Creatively_ by Bryan Peterson
+
+# Computer Science
+
++	_Operating Systems: Three Easy Pieces_ by Remzi et al.
+
+# Blog posts
+
++	[_The Case for Free Books_](https://from-a-to-remzi.blogspot.com/) by Remzi
++	[_More shell, less egg_](https://leancrew.com/all-this/2011/12/more-shell-less-egg/)
+
+## Clear writing
+
+Clean, tight, and strong writing:
+
++	_On Writing Well_ by William Zinsser
++	_Practical Typography_ by Matthew Butterick
++	_Beautiful Racket_ by Matthew Butterick
+
+## Maths
+
++	[_A Mathematician's Lament_](http://worrydream.com/refs/Lockhart-MathematiciansLament.pdf) by Paul Lockhart
+
+## Systems
+
++	[_The Basic Toolbox_](https://blog.regehr.org/archives/1578) by John Regehr
++	[_A Conversation about Teaching Software Engineering_](https://blog.regehr.org/archives/1569) by John Regehr
++	[_Software Engineering Takeaways_](https://blog.regehr.org/archives/1594) by John Regehr
++	[_Debates in Academic Computer Science_](https://blog.regehr.org/archives/1430) by John Regehr
++	[_Why Take an Embedded Systems Course_](https://blog.regehr.org/archives/195) by John Regehr
++	[_Why Take a Compiler Course_](https://blog.regehr.org/archives/169) by John Regehr
++	[_Why Take an Operating Systems Course_](https://blog.regehr.org/archives/164) by John Regehr
++	[_xv6_](https://blog.regehr.org/archives/1114) by John Regehr
++	[_Raspberry Rockets_](https://blog.regehr.org/archives/851) by John Regehr
++	[_Teaching C_](https://blog.regehr.org/archives/1393) by John Regehr
++	[_Fun at the UNIX Terminal_](https://blog.regehr.org/archives/1483) by John Regehr
++	[_Too Much Milk: The Secret Origin Story_](https://blog.regehr.org/archives/1145) by John Regehr
++	[_Procedural Decomposition_](https://blog.regehr.org/archives/942) by John Regehr
++	[_Street Fighting Computer Science_](https://blog.regehr.org/archives/724) by John Regehr
++	[_How to Debug_](https://blog.regehr.org/archives/199) by John Regehr
++	[_A Guide to Better Scripty Code for Academics_](https://blog.regehr.org/archives/1153)
++	[_Paranoid Programming_](https://blog.regehr.org/archives/1106)
++	[_Writing Solid Code_](https://blog.regehr.org/archives/834)
+
+## Research
+
++	[_How to do Research At the MIT AI Lab_](https://dspace.mit.edu/bitstream/handle/1721.1/41487/AI_WP_316.pdf)
++	[_How to do Research At the MIT AI Lab_ (HTML)](https://web.archive.org/web/20011108065740/https://cs.indiana.edu/mit.research.how.to.html)
++	[_Ten Lessons I Wish I had been Taught_](http://alumni.media.mit.edu/~cahn/life/gian-carlo-rota-10-lessons.html)
+
+### Classic CS Papers
+
++	[_Hints for Computer System Design_](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/acrobat-17.pdf) by Butler Lampson
++	[_Reflections on Trusting Trust_](https://www.cs.cmu.edu/~rdriley/487/papers/Thompson_1984_ReflectionsonTrustingTrust.pdf)
++	[_An Axiomatic Basis for Computer Programming_](https://www.cs.cmu.edu/~crary/819-f09/Hoare69.pdf) by C. A. R. Hoare
++	[_Epigrams on Programming_](http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html)
++	[_Bumpter Sticker Computer Science_](http://www.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf)
++	[_The Rise of Worse is Better_](http://dreamsongs.com/RiseOfWorseIsBetter.html)
++	[_Programming Pearls (Donald Knuth and Doug Mcilroy)_](https://www.cs.tufts.edu/~nr/cs257/archive/don-knuth/pearls-2.pdf)
++	[_The Computer Scientist as Toolsmith II_](http://www.cs.unc.edu/~brooks/Toolsmith-CACM.pdf)
++	[_The Man Who Tried to Redeem the World with Logic_](http://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic) by Amanda Gefter
+
+### Documentaries
+
++	The Bit Player (a documentary about Claude Shannon and his impact on the modern age.)
++	AlphaGo --- The Movie
++	Fast, Cheap, and Out of Control by Errol Morris
+
+### Articles
+
++	[_How Aristotle Created the Computer_](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/) by Chris Dixon
++	[_The Tinkerings of Robert Noyce_](The Tinkerings of Robert Noyce) by Tom Wolfe

@@ -46,6 +46,8 @@ Movies:
 + Lady Bird
 + Dazed and Confused
 + The Dictator
++ The Terminal
++ The 40-Year-Old Virgin
 
 [Romcoms]
 + 10 Things I Hate About You (soooo good)
