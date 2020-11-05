@@ -67,6 +67,7 @@ Movies:
 + Django Unchained
 + Dallas Buyers Club
 + The Social Network (Story of Mark Zuckerberg; cofounder of Facebook)
++ Stand and Deliver (True story about a teacher who teaches full AP level caluclus course to a community of students whose average educational qualifications were passing high school.)
 
 [Crime]
 + The Godfather 1, 2
@@ -80,3 +81,14 @@ Movies:
 + A Beautiful Mind (John Nash)
 + The Imitation Game (It is the story of Alan Turing; the father of modern computer)
 + Theory of Everything (Stephen Hawking)
+
+[Courtroom Drama]
++ A Few Good Men
++ 12 Angry Men
+
+[Documentary]
+
++ Shock and Awe: The Story of Electricity
++ AlphaGo
++ Science Fair (2018)
++ The Bit Player
