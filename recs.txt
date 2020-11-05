@@ -157,8 +157,9 @@ Clean, tight, and strong writing:
 ### Documentaries
 
 +	The Bit Player (a documentary about Claude Shannon and his impact on the modern age.)
-+	AlphaGo --- The Movie
++	AlphaGo---The Movie
 +	Fast, Cheap, and Out of Control by Errol Morris
++	Science Fair (2018)
 
 ### Articles
 
