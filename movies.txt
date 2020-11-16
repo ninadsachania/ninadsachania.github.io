@@ -14,6 +14,8 @@ TV Shows:
 + Silicon Valley *
 + Mr. Robot
 + Brooklyn Nine-Nine
++ The Queen's Gambit
++ Scam 1992: The Harshad Mehta story
 
 
 Movies:
@@ -48,6 +50,7 @@ Movies:
 + The Dictator
 + The Terminal
 + The 40-Year-Old Virgin
++ Castaway
 
 [Romcoms]
 + 10 Things I Hate About You (soooo good)
