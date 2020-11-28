@@ -71,6 +71,7 @@ Movies:
 + Dallas Buyers Club
 + The Social Network (Story of Mark Zuckerberg; cofounder of Facebook)
 + Stand and Deliver (True story about a teacher who teaches full AP level caluclus course to a community of students whose average educational qualifications were passing high school.)
++ Million Dollar Baby
 
 [Crime]
 + The Godfather 1, 2
