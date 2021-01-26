@@ -16,7 +16,8 @@ TV Shows:
 + Brooklyn Nine-Nine
 + The Queen's Gambit
 + Scam 1992: The Harshad Mehta story
-
++ Fleabag
++ Genius (Season 1)
 
 Movies:
 
@@ -72,6 +73,7 @@ Movies:
 + The Social Network (Story of Mark Zuckerberg; cofounder of Facebook)
 + Stand and Deliver (True story about a teacher who teaches full AP level caluclus course to a community of students whose average educational qualifications were passing high school.)
 + Million Dollar Baby
++ Parasite
 
 [Crime]
 + The Godfather 1, 2
@@ -96,3 +98,5 @@ Movies:
 + AlphaGo
 + Science Fair (2018)
 + The Bit Player
++ Bots High
++ Scotland's Einstein: James Clerk Maxwell - The Man Who Changed the World
