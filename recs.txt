@@ -165,3 +165,4 @@ Clean, tight, and strong writing:
 
 +	[_How Aristotle Created the Computer_](https://www.theatlantic.com/technology/archive/2017/03/aristotle-computer/518697/) by Chris Dixon
 +	[_The Tinkerings of Robert Noyce_](The Tinkerings of Robert Noyce) by Tom Wolfe
++	[_How to be a genius_](https://talentdevelop.com/articles/HTBAG.html) by David Dobbs
